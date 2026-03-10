@@ -47,7 +47,7 @@ Segmenting customers based on their buying behavior:
 
 ## 🚀 How to Run
 1. Clone the repository:
-   git clone [https://github.com/shradhaa_singh/Online-Retail-Customer-Analytics.git](https://github.com/shradhaa_singh/Online-Retail-Customer-Segmentation.git)
+   git clone [https://github.com/shradhaa_singh/Online-Retail-Customer-Segmentation.git](https://github.com/shradhaa_singh/Online-Retail-Customer-Segmentation.git)
 
 2. Install the required libraries:
     pip install pandas matplotlib seaborn squarify
