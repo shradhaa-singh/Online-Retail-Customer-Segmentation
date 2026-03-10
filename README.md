@@ -72,7 +72,7 @@ The dataset represents real-world e-commerce transactions between 2010 and 2011.
 
 **Source**
 Kaggle
-https://www.kaggle.com/datasets
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 The dataset is commonly used for data analysis, customer segmentation, and machine learning projects.
 
