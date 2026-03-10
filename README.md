@@ -43,7 +43,7 @@ Segmenting customers based on their buying behavior:
 - **Recency:** Days since last purchase.
 - **Frequency:** Total number of unique orders.
 - **Monetary:** Total spending.
-![Customer Segmentation](images/RFManalysis.png)
+![Customer Segmentation](images/RFM_Analysis.png)
 
 ## 🚀 How to Run
 1. Clone the repository:
